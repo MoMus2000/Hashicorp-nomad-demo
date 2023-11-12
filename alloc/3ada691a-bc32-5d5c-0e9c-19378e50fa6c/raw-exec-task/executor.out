@@ -1,0 +1,6 @@
+{"@level":"debug","@message":"plugin address","@timestamp":"2023-11-12T02:47:06.063551-05:00","address":"/tmp/plugin1629145849","network":"unix"}
+{"@level":"debug","@message":"shutdown requested","@module":"executor","@timestamp":"2023-11-12T02:47:06.172893-05:00","grace_period_ms":0,"signal":""}
+{"@level":"debug","@message":"plugin address","@timestamp":"2023-11-12T02:47:23.755010-05:00","address":"/tmp/plugin3954923478","network":"unix"}
+{"@level":"debug","@message":"shutdown requested","@module":"executor","@timestamp":"2023-11-12T02:47:23.868149-05:00","grace_period_ms":0,"signal":""}
+{"@level":"debug","@message":"plugin address","@timestamp":"2023-11-12T02:47:40.788598-05:00","address":"/tmp/plugin105058805","network":"unix"}
+{"@level":"debug","@message":"shutdown requested","@module":"executor","@timestamp":"2023-11-12T02:47:40.890975-05:00","grace_period_ms":0,"signal":""}

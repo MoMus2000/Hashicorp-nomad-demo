@@ -1,0 +1,2 @@
+{"@level":"debug","@message":"plugin address","@timestamp":"2023-11-12T03:05:28.541212-05:00","address":"/tmp/plugin1685932776","network":"unix"}
+{"@level":"debug","@message":"shutdown requested","@module":"executor","@timestamp":"2023-11-12T03:05:28.657244-05:00","grace_period_ms":0,"signal":""}
